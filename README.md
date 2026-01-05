@@ -52,6 +52,8 @@ Features
 Sample Output
 Strong password! Meets all security requirements.
 
+<img width="952" height="388" alt="password op" src="https://github.com/user-attachments/assets/223ea1a0-5088-47d2-9ec2-184f4d2f9abd" />
+
 # Q2. CPU Health Monitoring
     Features
     Continuous CPU monitoring
@@ -68,6 +70,12 @@ Strong password! Meets all security requirements.
 Sample Output
 Monitoring CPU usage...
 Alert! CPU usage exceeds threshold: 85%
+
+<img width="959" height="391" alt="cpu 1" src="https://github.com/user-attachments/assets/218c2d2d-19bc-445b-977a-7ea86c5ef312" />
+
+<img width="950" height="351" alt="cpu break" src="https://github.com/user-attachments/assets/c931d08f-a0fc-4da3-92e8-254ed919e978" />
+
+<img width="995" height="700" alt="cpr stres test" src="https://github.com/user-attachments/assets/6fded6a3-5466-4ea0-91fe-239b5780c5e5" />
 
 # Q3. Configuration Management Automation
     Features
@@ -108,6 +116,9 @@ Alert! CPU usage exceeds threshold: 85%
         }
     }
 
+
+<img width="956" height="391" alt="config op" src="https://github.com/user-attachments/assets/23676ca0-35a9-49e1-a52f-643caffa4b64" />
+
 # Q4. Automated Backup Script
     Features
     Accepts source and destination directories as arguments
@@ -117,6 +128,8 @@ Alert! CPU usage exceeds threshold: 85%
 
     Run the Script
     python backup.py /path/to/source /path/to/destination
+
+<img width="950" height="189" alt="backup op" src="https://github.com/user-attachments/assets/92681d16-35e5-4929-91ef-25eac18d5340" />
 
 # Author
 Santosh Kumar Sharma
