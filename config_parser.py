@@ -19,7 +19,6 @@ def read_config():
     config.read(CONFIG_FILE)
 
     config_data = {}
-    
     for section in config.sections():
         config_data[section] = dict(config.items(section))
     return config_data
