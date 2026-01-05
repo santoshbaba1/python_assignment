@@ -19,9 +19,9 @@ def read_config():
     config.read(CONFIG_FILE)
 
     config_data = {}
+    
     for section in config.sections():
         config_data[section] = dict(config.items(section))
-
     return config_data
 
 
@@ -37,6 +37,7 @@ if __name__ == "__main__":
         print("\nConfiguration File Parser Results:\n")
         for section, values in parsed_data.items():
             print(f"{section}:")
+ #           data.pop("_id", None)
             for key, value in values.items():
                 print(f"- {key}: {value}")
             print()
