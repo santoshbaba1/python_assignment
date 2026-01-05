@@ -26,7 +26,7 @@
     json
     re
 
-# Project Structure
+Project Structure
 .
 ├── password_checker.py
 ├── cpu_monitor.py
@@ -35,6 +35,7 @@
 ├── backup.py
 ├── config.db
 └── README.md
+
 
 # Q1. Password Strength Checker
 
